@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# TypeScript
+dist/
+build/
+*.tsbuildinfo
+
+# Testing
+coverage/
+.nyc_output/
+
+# Environment variables
+.env
+
+# IDE-specific files
+.vscode/
+
+# Temporary files
+.DS_Store
+
+# Logs
+npm-debug.log*
+
+# TypeScript cache
+*.tsbuildinfo
